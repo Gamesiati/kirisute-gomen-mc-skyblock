@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "59acfaf613f3df57ed4934a25e991e7f74751c19494be2e53d5eb86f6c659ced"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "c3255c9bef50d1859b7715518d633585159deb57f78f19bb4fc97800415803ef"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "e9bcc2ae420014ca0de593b84849f3193998527ef0fdff3560fd93b04b919ba4"
+metafile = true
+
+[[files]]
 file = "mods/sky-void-additions.pw.toml"
 hash = "d695a50aef39a6b73afea620fe3a5e98043aab6535397e3d1ee0fb0bcd3f86f1"
 metafile = true
