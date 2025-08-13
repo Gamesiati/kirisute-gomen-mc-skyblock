@@ -26,6 +26,11 @@ hash = "e9bcc2ae420014ca0de593b84849f3193998527ef0fdff3560fd93b04b919ba4"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "404e65a8dddd429f133df9fda9acfa81488ff72ae5a04d4d4293a0e0fdbeba83"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
 metafile = true
