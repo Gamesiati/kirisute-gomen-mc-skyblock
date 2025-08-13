@@ -1,0 +1,13 @@
+name = "SkyBlock Advancements"
+filename = "skyblock-advancements-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xuhPkHjq/versions/cSTK24Pp/skyblock-advancements-1.0.9.jar"
+hash-format = "sha512"
+hash = "175fa50549a54b57f3e3a9e65122ec6c7eff2eb1d2ef04e3c7c8ef4c4ee19b24d6ad8edf9b6181ae8d043be166f66702586a66272e58e23436f58da42c935dd2"
+
+[update]
+[update.modrinth]
+mod-id = "xuhPkHjq"
+version = "cSTK24Pp"

@@ -1,2 +1,16 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/sky-void-additions.pw.toml"
+hash = "d695a50aef39a6b73afea620fe3a5e98043aab6535397e3d1ee0fb0bcd3f86f1"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-advancements.pw.toml"
+hash = "bf05ea2e9976bf2bc22aa297674c667abd02e14a67c3048c35bea7fb024f6c07"
+metafile = true
+
+[[files]]
+file = "mods/standard-skyblock.pw.toml"
+hash = "d2ae1c2f6e88a614fe92d72127a701b2685326551809e843bff6ffa8d21cd3c2"
+metafile = true

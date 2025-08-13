@@ -1,0 +1,13 @@
+name = "Sky Void Additions"
+filename = "sky-void-additions-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HlddKKKU/versions/ueKwn5CJ/sky-void-additions-1.3.2.jar"
+hash-format = "sha512"
+hash = "b3cc325de18988ea7f5de5adb413d745a35f4e8ba7007092b01495dbc5bbcf7592ad143578347754d76ddc6897c966f0068afeee67265825a632bdbfe3815a46"
+
+[update]
+[update.modrinth]
+mod-id = "HlddKKKU"
+version = "ueKwn5CJ"
