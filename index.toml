@@ -29,3 +29,18 @@ metafile = true
 file = "mods/standard-skyblock.pw.toml"
 hash = "d2ae1c2f6e88a614fe92d72127a701b2685326551809e843bff6ffa8d21cd3c2"
 metafile = true
+
+[[files]]
+file = "mods/viabackwards.pw.toml"
+hash = "86f84f2d39defd7756321fa0e5ccca29f197ff418a1ff4ade0914d9c3f600b6e"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "309c5fa53b33422aedf5a06250745d6757eb12edc0a5ee1323525ead0a840dcb"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "28d68f640ef3836ade5324e429c7ae082b1f385022ad23291705a9e4d1e34cb5"
+metafile = true
