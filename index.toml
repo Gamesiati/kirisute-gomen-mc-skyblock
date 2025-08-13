@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "59acfaf613f3df57ed4934a25e991e7f74751c19494be2e53d5eb86f6c659ced"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
@@ -16,6 +26,11 @@ hash = "e9bcc2ae420014ca0de593b84849f3193998527ef0fdff3560fd93b04b919ba4"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
+metafile = true
+
+[[files]]
 file = "mods/sky-void-additions.pw.toml"
 hash = "d695a50aef39a6b73afea620fe3a5e98043aab6535397e3d1ee0fb0bcd3f86f1"
 metafile = true
@@ -23,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/skyblock-advancements.pw.toml"
 hash = "bf05ea2e9976bf2bc22aa297674c667abd02e14a67c3048c35bea7fb024f6c07"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
 metafile = true
 
 [[files]]
