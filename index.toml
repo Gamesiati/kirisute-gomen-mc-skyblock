@@ -36,6 +36,11 @@ hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
+metafile = true
+
+[[files]]
 file = "mods/sky-void-additions.pw.toml"
 hash = "d695a50aef39a6b73afea620fe3a5e98043aab6535397e3d1ee0fb0bcd3f86f1"
 metafile = true
