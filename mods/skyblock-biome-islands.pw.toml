@@ -1,0 +1,13 @@
+name = "SkyBlock Biome Islands"
+filename = "skyblock-biome-islands-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQG2KlS9/versions/RrabHXzq/skyblock-biome-islands-1.0.5.jar"
+hash-format = "sha512"
+hash = "202e07dff01776113e5d6be1ebfc47fb514706270993ab3ad437ce3ffb8dfedf0410e6d5e1216a01ba5f4b05a53e5d96f7a19184aecfefac1c4a41b0675cac22"
+
+[update]
+[update.modrinth]
+mod-id = "LQG2KlS9"
+version = "RrabHXzq"
