@@ -1,0 +1,13 @@
+name = "Skyblock Infinite"
+filename = "skyblock-infinite-1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YVMr2l79/versions/fmTuzFGf/skyblock-infinite-1.1.9.jar"
+hash-format = "sha512"
+hash = "7d38411aa6c806b5495e48444fa4521bff920637a0bd3993f29e468db60894396f9787ae13b208d47d2cca358a7dfd7e616b1a33eee831f3a92ba766907f3ce9"
+
+[update]
+[update.modrinth]
+mod-id = "YVMr2l79"
+version = "fmTuzFGf"
