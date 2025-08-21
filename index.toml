@@ -16,6 +16,11 @@ hash = "17d4083ec0d10cc2f5ca3a750b864dff5def75aa6c71f434ab701e2123e1b02c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
@@ -83,4 +88,14 @@ metafile = true
 [[files]]
 file = "mods/viaversion.pw.toml"
 hash = "28d68f640ef3836ade5324e429c7ae082b1f385022ad23291705a9e4d1e34cb5"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "33a6300bdf82bd4297aeba3c660ebb0f0993121b97f0824a939468e4dcb81d15"
 metafile = true
